@@ -1,0 +1,203 @@
+# Copyright (C) 2018 Viva Themes
+# This file is distributed under the GNU GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Styled Lite 1.1.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/styled-lite\n"
+"POT-Creation-Date: 2018-03-21 13:01:35+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:12
+msgid "Oops! That page can&rsquo;t be found"
+msgstr ""
+
+#: archive.php:28
+msgid "Not Found"
+msgstr ""
+
+#. translators: %s: post title
+
+#: comments.php:21
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#. translators: 1: number of comments, 2: post title
+
+#: comments.php:25
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:46
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:49
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:52
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:62
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:35
+msgid "Y"
+msgstr ""
+
+#: footer.php:37
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:37
+msgid "Powered by %s."
+msgstr ""
+
+#: footer.php:37
+msgid "Theme by %1$s."
+msgstr ""
+
+#: functions.php:18
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:19
+msgid "Social"
+msgstr ""
+
+#: functions.php:39
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:49
+msgid "Front Widget"
+msgstr ""
+
+#: functions.php:59
+msgid "Footer Widgets"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+
+#: functions.php:81
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: To add an additional Open Sans character subset specific to
+#. your language, translate this to 'greek', 'cyrillic' or 'vietnamese'. Do not
+#. translate into your own language.
+
+#: functions.php:87
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported
+#. 	   by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+
+#: functions.php:118
+msgctxt "Hind font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/customizer.php:14
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer.php:21
+msgid "Featured Products"
+msgstr ""
+
+#: inc/customizer.php:30
+msgid "Carousel Title"
+msgstr ""
+
+#: inc/extras.php:31
+msgid "Read More"
+msgstr ""
+
+#: inc/extras.php:51
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/extras.php:53
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/extras.php:55
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/extras.php:61
+msgid "Archives"
+msgstr ""
+
+#: index.php:27
+msgid "You don&#39;t have any posts yet."
+msgstr ""
+
+#: page.php:22 single.php:21 template-full-width.php:22
+#: template-home-page.php:22
+msgid "Pages:"
+msgstr ""
+
+#: search.php:11
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:27
+msgid "Posted on"
+msgstr ""
+
+#: search.php:38
+msgid "No results."
+msgstr ""
+
+#: template-home-page.php:59
+msgid "View Details"
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "Styled Lite"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://www.vivathemes.com/wordpress-theme/styled/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Styled Lite is a clean and professional WordPress theme that will make your website stand out from the crowd. It has a minimal design and a balanced layout that can be used for your personal or business website. Includes custom header, social media menu, featured posts carousel, three widget location, custom logo image, favicon and much more."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Viva Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.vivathemes.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home Page"
+msgstr ""

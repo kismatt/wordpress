@@ -1,0 +1,16 @@
+Image used in the screen shot is Public domain, found here
+https://pixabay.com/en/fashion-girl-model-woman-cute-2762865/
+
+Images 01.png and featcarousel.jpg are released under GPL.
+
+-Genericons Font
+--By Automattic http://genericons.com/
+--Licensed under GPL
+
+-Owl Carousel
+--By Bartosz Wojciechowski https://owlcarousel2.github.io/OwlCarousel2/
+—-Licensed under the MIT license
+
+-Animate.css
+--By Daniel Eden http://daneden.me/animate
+—-Licensed under the MIT license

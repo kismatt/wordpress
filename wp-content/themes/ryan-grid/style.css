@@ -1,0 +1,220 @@
+/*
+Theme Name: Ryan Grid
+Theme URI: https://www.thinkupthemes.com/free/ryan/
+Author: Think Up Themes
+Author URI: https://www.thinkupthemes.com
+Description: Ryan Grid is the free version of the multi-purpose professional theme (Ryan Pro) ideal for a business or blog website. The theme has a responsive layout, HD retina ready and comes with a powerful theme options panel with can be used to make awesome changes without touching any code. The theme also comes with a full width easy to use slider. Easily add a logo to your site and create a beautiful homepage using the built-in homepage layout. Compatible with WooCommerce, WPML, Polylang, Flat Parallax Slider, Photo Gallery and Travel Map, Elementor, Page Builder, Beaver Builder, Visual Composer, SiteOrigin, Divi, etc. It's a perfect theme for small businesses (restaurants, wedding planners, sport/medical shops), startups, corporate businesses, online agencies and firms, portfolios, ecommerce (WooCommerce), and freelancers.
+Template: ryan
+Version: 1.0.1
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Tags: one-column, two-columns, three-columns, right-sidebar, left-sidebar, custom-header, custom-menu, full-width-template, theme-options, threaded-comments, editor-style, featured-images, featured-image-header, post-formats, sticky-post, translation-ready, flexible-header, custom-background, grid-layout, footer-widgets, blog, e-commerce, portfolio, rtl-language-support
+Text Domain: ryan-grid
+*/
+
+/* General */
+
+/* Pre Header */
+#pre-header {
+	border-bottom: none;
+}
+#pre-header .header-links .sub-menu {
+    border: 1px solid #ddd;
+    border-bottom: none;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	-ms-box-shadow: none;
+	-o-box-shadow: none;
+	box-shadow: none;
+}
+#pre-header .header-links .sub-menu a {
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+#pre-header .header-links .sub-menu a:hover {
+	color: #121212;
+	-webkit-box-shadow: 0 0 0 1px #121212, inset 0 0 0 1px #121212;
+	-moz-box-shadow: 0 0 0 1px #121212, inset 0 0 0 1px #121212;
+	-ms-box-shadow: 0 0 0 1px #121212, inset 0 0 0 1px #121212;
+	-o-box-shadow: 0 0 0 1px #121212, inset 0 0 0 1px #121212;
+	box-shadow: 0 0 0 1px #121212, inset 0 0 0 1px #121212;
+}
+
+#pre-header .main-navigation .sub-menu .sub-menu {
+	top: -1px;
+}
+
+/* Main Header */
+#header .menu > li.menu-hover > a,
+#header .menu > li.current_page_item > a,
+#header .menu > li.current-menu-ancestor > a,
+#header .menu > li > a:hover,
+#header-sticky .menu > li.menu-hover > a,
+#header-sticky .menu > li.current_page_item > a,
+#header-sticky .menu > li.current-menu-ancestor > a,
+#header-sticky .menu > li > a:hover {
+	color: #121212;
+	border: 2px solid #121212;
+}
+#header .header-links > ul > li > a,
+#header-sticky .header-links > ul > li > a {
+	border: 2px solid transparent;
+	padding: 10px 20px;
+	margin: 47px 5px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+#header .header-links .sub-menu,
+#header-sticky .header-links .sub-menu {
+    border: 1px solid #ddd;
+    border-bottom: none;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	-ms-box-shadow: none;
+	-o-box-shadow: none;
+	box-shadow: none;
+}
+#header .header-links .sub-menu li,
+#header-sticky .header-links .sub-menu li {
+	padding: 0;
+}
+#header .header-links .sub-menu a,
+#header-sticky .header-links .sub-menu a {
+	padding: 7px 30px;
+}
+#header .header-links .sub-menu a:hover,
+#header-sticky .header-links .sub-menu a:hover {
+	color: #121212;
+	-webkit-box-shadow: 0 0 0 1px #121212, inset 0 0 0 1px #121212;
+	-moz-box-shadow: 0 0 0 1px #121212, inset 0 0 0 1px #121212;
+	-ms-box-shadow: 0 0 0 1px #121212, inset 0 0 0 1px #121212;
+	-o-box-shadow: 0 0 0 1px #121212, inset 0 0 0 1px #121212;
+	box-shadow: 0 0 0 1px #121212, inset 0 0 0 1px #121212;
+}
+#header .sub-menu .menu-parent > a:before,
+#header-sticky .sub-menu .menu-parent > a:before {
+	-webkit-transition: left 0.3s ease;
+	-moz-transition: left 0.3s ease;
+	-ms-transition: left 0.3s ease;
+	-o-transition: left 0.3s ease;
+	transition: left 0.3s ease;
+}
+
+#header .main-navigation .sub-menu .sub-menu,
+#header-sticky .main-navigation .sub-menu .sub-menu {
+	top: -1px;
+}
+
+/* Call To Action */
+
+/* Featured Content */
+.iconfull.style1 {
+	text-align: center;
+	background: #f8f8f8;
+	border: 1px solid #ddd;
+	padding: 25px 20px 15px;
+}
+.iconfull.style1 .iconurl {
+	padding-top: 5px;
+}
+.iconfull.style1 .iconurl > a {
+	color: #121212;
+	background: #fff;
+	border: 2px solid #121212;
+	padding: 5px 20px;
+}
+.iconfull.style1 .iconurl > a:hover {
+	color: #AAA;
+	border-color: #DDD;
+}
+.iconfull.style1 .iconmain .iconurl a:after {
+	display: none;
+}
+
+/* Page Intro */
+
+/* Blog Archive */
+.blog-style2 .blog-article {
+	padding: 20px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.blog-style2 .blog-article .blog-title {
+	font-size: 30px;
+	text-transform: none;
+}
+.blog-style2 .blog-article .entry-meta {
+	text-transform: none;	
+}
+.blog-style2 .blog-article .entry-header {
+	text-align: center;
+}
+.blog-style2 .blog-article .entry-header .blog-thumb,
+.blog-style2 .blog-article .entry-header .blog-thumb img {
+	width: 100%;
+}
+.blog-style2 .blog-article .entry-header,
+.blog-style2 .blog-article .entry-content {
+	background: #f8f8f8;
+}
+
+.blog-style2 .blog-article .more-link {
+	text-align: left;
+}
+.blog-style2 .blog-article .more-link a {
+	color: #121212;
+	background: #fff;
+	border: 2px solid #121212;
+	padding: 5px 20px;
+}
+.blog-style2 .blog-article .more-link a:hover {
+	color: #AAA;
+	border-color: #DDD;
+}
+.blog-style2 .blog-article .more-link a:after {
+	display: none;
+}
+
+/* Blog Archive - Pagination */
+.navigation.pagination .nav-links a,
+.navigation.pagination .nav-links span {
+	border: 1px solid #ddd;
+	width: 48px;
+	height: 48px;
+	line-height: 48px;
+}
+.navigation.pagination .nav-links a:hover,
+.navigation.pagination .nav-links a.current,
+.navigation.pagination .nav-links span:hover,
+.navigation.pagination .nav-links span.current {
+	color: #aaa;
+	background: #f8f8f8;
+	border: 1px solid #ddd;
+	-webkit-box-shadow: inset 0 0 0 2px #fff;
+	-moz-box-shadow: inset 0 0 0 2px #fff;
+	-ms-box-shadow: inset 0 0 0 2px #fff;
+	-o-box-shadow: inset 0 0 0 2px #fff;
+	box-shadow: inset 0 0 0 2px #fff;
+}
+
+/* Blog Posts */
+
+/* Blog Posts - Pagination */
+
+/* Comments & Leave Comment Style */
+
+/* Footer */
+
+/* Sub Footer */
+
+/* Sidebar */
+
+/* Widgets */
+
